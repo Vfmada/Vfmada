@@ -4,19 +4,20 @@
 - I have a high school technical course certificate in Systems Analysis and Development, where I got the very basics down;
 - I'm a beginner to coding.
 
-## <So far I've worked with:>
+### So far I've worked with:
 
-### Front-end
+**Front-end**
 - HTML (Beginner): *VSCode*;
 
-### Back-end
+**Back-end**
 - Java (Beginner - Intermediate): *NetBeans, Android Studio*;
 
-### Data
+**Data**
 - PostgreSQL (Beginner);
 
-I'm always looking forward to learn more about programming! 🤗
+**I'm always looking forward to learn more about programming! 🤗**
 
+**You can reach me on:**
 📫 vfmadalena@gmail.com
 <!--
 **Vfmada/Vfmada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
