@@ -1,18 +1,18 @@
-### Hey 👋 I'm #Vinícius Faraco Madalena# 
+### Hey 👋 I'm **Vinícius Faraco Madalena**
 
 My name is Vinícius, but I like to be called Vini 😊;
 I have a high school technical course certificate in Systems Analysis and Development, where I got the very basics down;
 I'm a beginner to coding.
 
-<So far I've worked with:>
+##<So far I've worked with:>
 
-Front-end
-- HTML (Beginner): VSCode;
+###Front-end
+- HTML (Beginner): *VSCode*;
 
-Back-end
-- Java (Beginner - Intermediate): NetBeans, Android Studio;
+###Back-end
+- Java (Beginner - Intermediate): *NetBeans, Android Studio*;
 
-Data
+###Data
 - PostgreSQL (Beginner);
 
 I'm always looking forward to learn more about programming! 🤗
