@@ -1,8 +1,8 @@
 ### Hey 👋 I'm **Vinícius Faraco Madalena**
 
-My name is Vinícius, but I like to be called Vini 😊;
-I have a high school technical course certificate in Systems Analysis and Development, where I got the very basics down;
-I'm a beginner to coding.
+- My name is Vinícius, but I like to be called Vini 😊;
+- I have a high school technical course certificate in Systems Analysis and Development, where I got the very basics down;
+- I'm a beginner to coding.
 
 ## <So far I've worked with:>
 
