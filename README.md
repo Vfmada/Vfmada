@@ -7,16 +7,16 @@
 
 ## So far I've worked with:
 
-   **Front-end**
+   ### **Front-end:**
    - HTML (Beginner): 
      - *VSCode*;
      
-   **Back-end**
+   ### **Back-end:**
    - Java (Beginner - Intermediate): 
      - *NetBeans;*
      - *Android Studio*;
      
-   **Data**
+   ### **Data:**
    - PostgreSQL (Beginner);
 #
 ### **I'm always looking forward to learn more about programming! 🤗**
