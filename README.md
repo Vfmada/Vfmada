@@ -1,11 +1,11 @@
-## Hey, 👋 I'm **Vinícius Faraco Madalena** 😊!
+# Hey, 👋 I'm **Vinícius Faraco Madalena** 😊!
 
 - My name is Vinícius, but I like to be called Vini;
 - I have a high school technical degree in *Systems Analysis and Development*, where I got the very basics down;
 - I'm a beginner to coding.
-#
 
-### So far I've worked with:
+
+## So far I've worked with:
 
    **Front-end**
    - HTML (Beginner): 
@@ -19,6 +19,7 @@
    **Data**
    - PostgreSQL (Beginner);
 #
-**I'm always looking forward to learn more about programming! 🤗**
+### **I'm always looking forward to learn more about programming! 🤗**
+#
 
-* *You can always reach me on: 📫 vfmadalena@gmail.com*
+*📫 vfmadalena@gmail.com*
