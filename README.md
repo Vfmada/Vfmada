@@ -4,7 +4,7 @@
 - I have a high school technical course certificate in Systems Analysis and Development, where I got the very basics down;
 - I'm a beginner to coding.
 
----
+##
 
 ### So far I've worked with:
 
@@ -20,11 +20,10 @@
    **Data**
    - PostgreSQL (Beginner);
 
----
-
+##
+⠀
 **I'm always looking forward to learn more about programming! 🤗**
-
----
+##
 
 *You can always reach me on: 📫 vfmadalena@gmail.com*
 <!--
