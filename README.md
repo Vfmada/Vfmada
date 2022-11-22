@@ -14,7 +14,7 @@
    ### **Back-end:**
    - Java (Beginner): 
      - *NetBeans;*
-     - *Android Studio*;
+     - *Android Studio;*
      
    ### **Data:**
    - PostgreSQL (Beginner);
