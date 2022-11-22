@@ -1,9 +1,8 @@
 # Hey, 👋 I'm **Vinícius Faraco Madalena** 😊!
 
-- I like to be called Vini;
-- I'm 17 years old;
-- I have a high school technical degree in *Systems Analysis and Development*, where I got the very basics down;
-- I'm a beginner to coding.
+- I'm 18 years old
+- I'm a beginner in programming
+- I have a high school technical degree in *Systems Analysis and Development*, where I got the basics down
 
 
 ## So far I've worked with:
@@ -13,14 +12,14 @@
      - *VSCode*;
      
    ### **Back-end:**
-   - Java (Beginner - Intermediate): 
+   - Java (Beginner): 
      - *NetBeans;*
      - *Android Studio*;
      
    ### **Data:**
    - PostgreSQL (Beginner);
 #
-### **I'm always looking forward to learn more about programming! 🤗**
+### **I'm always looking forward to learn more about coding! 🤗**
 #
 
 *📫 vfmadalena@gmail.com*
