@@ -19,7 +19,9 @@
    ### **Data:**
    - PostgreSQL (Beginner);
 #
-### **I'm always looking forward to learn more about coding! **
+### **I'm always looking forward to learn more about coding!**
 #
+
+## You can reach me in:
 
 *📫 vfmadalena@gmail.com*
