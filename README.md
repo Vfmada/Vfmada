@@ -2,7 +2,7 @@
 
 - I'm 18 years old;
 - I'm a beginner in programming;
-- I have a high school technical degree in *Systems Analysis and Development*, where I got the basics down.
+- I got a high school technical degree in *Systems Analysis and Development* at SESI/SENAI, where I got the basics down.
 
 
 ## So far I've worked with:
