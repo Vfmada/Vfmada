@@ -1,4 +1,4 @@
-# Hey, 👋 I'm **Vinícius Faraco Madalena** 😊!
+# 👋 Hello, I'm **Vini** 😊!
 
 - I'm 18 years old;
 - I'm a beginner in programming;
