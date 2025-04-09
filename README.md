@@ -1,24 +1,23 @@
-# 👋 Hello, I'm **Vini!** 😊
+# Hi, I'm Vini!
 
-- I'm 18 years old;
-- I'm a beginner in programming;
-- I got a high school technical degree in *Systems Analysis and Development* at SESI/SENAI, where I got the very basics down;
-- I'm always looking forward to learn more about coding! 🤗 
+I am a Computer Science student at UNIVALI and a Technical Graduate in Systems Analysis and Development from SESI/SENAI. My academic projects have introduced me to a variety of programming languages and tools, and I am continually expanding my skill set.
 
-## So far I've worked with:
+## Technical Overview
 
-   ### **Front-end:**
-   - HTML: 
-     - *VSCode*;
-     
-   ### **Back-end:**
-   - Java: 
-     - *NetBeans;*
-     - *Android Studio;*
-     
-   ### **Data:**
-   - PostgreSQL;
+- **Languages & Frameworks:**  
+  - **Programming:** C++, Python, Java, Assembly  
+  - **Web Development:** HTML, CSS, JavaScript  
+  - **Databases:** MySQL, PostgreSQL
 
-## You can reach me in:
+- **Tools & Environments:**  
+  - **IDEs:** VSCode, IntelliJ, PyCharm, CodeBlocks  
+  - **Simulators/Assemblers:** MARS, RARS
 
-*📫 vfmadalena@gmail.com*
+## Current Focus
+
+- Expanding my proficiency in front-end development (HTML, CSS, JavaScript).
+- Applying academic knowledge to practical projects and continuously learning new technologies.
+
+## Let's Connect
+
+Feel free to reach out via email at [vfmadalena@gmail.com](mailto:vfmadalena@gmail.com).
