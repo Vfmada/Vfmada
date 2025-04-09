@@ -10,7 +10,7 @@ I am a Computer Science student at UNIVALI and a Technical Graduate in Systems A
   - **Databases:** MySQL, PostgreSQL
 
 - **Tools & Environments:**  
-  - **IDEs:** VSCode, IntelliJ, PyCharm, CodeBlocks  
+  - **IDEs:** VSCode, Android Studio, NetBeans, IntelliJ, PyCharm, CodeBlocks
   - **Simulators/Assemblers:** MARS, RARS
 
 ## Current Focus
